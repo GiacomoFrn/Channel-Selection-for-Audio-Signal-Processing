@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../vivado_proj/Pmod-I2S2-Arty-A7-35.srcs/sources_1/ip/clk_wiz_0" \
+"../../../../../Pmod-I2S2-master/shared/src/hdl/axis_i2s2.v" \
+"../../../../../Pmod-I2S2-master/shared/src/hdl/axis_volume_controller.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

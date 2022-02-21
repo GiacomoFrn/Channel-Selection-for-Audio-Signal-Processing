@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Feb 16 11:04:46 2022
+# Process ID: 18920
+# Current directory: C:/Users/giaco/Documents/Uni/PoD/MaPD/MAPD_modA/audio_equalizer/audio_equalizer.runs/synth_2
+# Command line: vivado.exe -log top_vhdl.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_vhdl.tcl
+# Log file: C:/Users/giaco/Documents/Uni/PoD/MaPD/MAPD_modA/audio_equalizer/audio_equalizer.runs/synth_2/top_vhdl.vds
+# Journal file: C:/Users/giaco/Documents/Uni/PoD/MaPD/MAPD_modA/audio_equalizer/audio_equalizer.runs/synth_2\vivado.jou
+#-----------------------------------------------------------
+source top_vhdl.tcl -notrace
